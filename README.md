@@ -15,4 +15,4 @@ Um sicherzustellen, ob der Kunde es genauso möchte, wie ich es verstanden habe,
 
 ![Kunsttherapie-Ahrens Freigabe](https://portfolio.gerdt-webdesign.de/img/Proto-Typ-Ahrens.jpg)
 
-[Projekt anschauen](https://kunsttherapie-ahrens.de/)
+[Projekt anschauen](https://alexxxanderr.github.io/Kunsttherapie-Ahrens/)
